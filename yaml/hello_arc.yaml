@@ -33,4 +33,4 @@ spec:
         - containerPort: 8080
         env:
         - name: MESSAGE
-          value: Steve Latta changed this demo of arc TWICE
+          value: Tim and Umesh were here
